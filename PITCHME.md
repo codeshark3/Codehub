@@ -32,27 +32,28 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 +++
 
 ### The Homepage
+![Python](md_images/home.png)
 
-![jo](https://github.com/codeshark3/Codehub/blob/master/md_images/home.PNG)
 +++
 
 ### The Dashboard  
-![Jo](https://github.com/codeshark3/Codehub/blob/master/md_images/dashboard.PNG)
 
+![Python](md_images/dashboard.png)
 
 
 
 +++
 
 ### Editing The Post
-![Jo](https://github.com/codeshark3/Codehub/blob/master/md_images/edit.PNG)
 
+![Python](md_images/edit.png)
 
 +++
 
 ### The SignIn Page
+![Python](md_images/signin.png)
 
-![jo](https://github.com/codeshark3/Codehub/blob/master/md_images/signin.PNG)
++++
 
 ## Challenges
 * Hosting to Heroku 
