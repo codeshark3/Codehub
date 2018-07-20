@@ -37,21 +37,22 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 +++
 
 ### The Dashboard  
-![Image](md_images/dashboard.png)
+![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/dashboard.PNG)
+
 
 
 
 +++
 
 ### Editing The Post
-![Image](md_images/edit.png)
+![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/edit.PNG)
 
 
 +++
 
 ### The SignIn Page
 
-![Image](md_images/signin.png)
+![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/signin.PNG)
 
 
 
@@ -68,9 +69,5 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 ---
 
 +++
-
-## Contact Us
-
- 
 ---
 ## THANK YOU
