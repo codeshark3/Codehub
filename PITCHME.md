@@ -33,9 +33,7 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 
 ### The Homepage
 
-![Logo](md_images/home.png)
-
-
+![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/home.PNG)
 +++
 
 ### The Dashboard  
