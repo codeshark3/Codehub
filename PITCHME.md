@@ -33,27 +33,27 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 
 ### The Homepage
 
-![Image] (/md_images/home.png)
+![Image](md_images/home.png)
 
 
 +++
 
 ### The Dashboard  
-![Image] (/md_images/dashboard.png)
+![Image](md_images/dashboard.png)
 
 
 
 +++
 
 ### Editing The Post
-![Image] (/md_images/edit.png)
+![Image](md_images/edit.png)
 
 
 +++
 
 ### The SignIn Page
 
-![Image] (/md_images/signin.png)
+![Image](md_images/signin.png)
 
 
 
