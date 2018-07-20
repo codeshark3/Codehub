@@ -29,6 +29,30 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 - Heroku
 
 +++
++++
+
+### The Homepage
+
+![jo](https://github.com/codeshark3/Codehub/blob/master/md_images/home.PNG)
++++
+
+### The Dashboard  
+![Jo](https://github.com/codeshark3/Codehub/blob/master/md_images/dashboard.PNG)
+
+
+
+
++++
+
+### Editing The Post
+![Jo](https://github.com/codeshark3/Codehub/blob/master/md_images/edit.PNG)
+
+
++++
+
+### The SignIn Page
+
+![jo](https://github.com/codeshark3/Codehub/blob/master/md_images/signin.PNG)
 
 ## Challenges
 * Hosting to Heroku 
