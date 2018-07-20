@@ -28,44 +28,10 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 - Django
 - Heroku
 
-
 +++
 
-### The Homepage
-
-![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/home.PNG)
-+++
-
-### The Dashboard  
-![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/dashboard.PNG)
-
-
-
-
-+++
-
-### Editing The Post
-![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/edit.PNG)
-
-
-+++
-
-### The SignIn Page
-
-![Logo](https://github.com/codeshark3/Codehub/blob/master/md_images/signin.PNG)
-
-
-
-
-
-+++
-
-## Future Scope
-* A comments section 
-* Better UI design
-
-
-
+## Challenges
+* Hosting to Heroku 
 ---
 
 +++
