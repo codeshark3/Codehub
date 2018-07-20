@@ -34,6 +34,4 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 * Hosting to Heroku 
 ---
 
-+++
----
 ## THANK YOU
