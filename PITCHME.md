@@ -29,7 +29,7 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 - Heroku
 
 +++
-+++
+
 
 ### The Homepage
 ![Python](md_images/home.png)
