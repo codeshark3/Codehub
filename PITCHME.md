@@ -33,7 +33,7 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 
 ### The Homepage
 
-![Image](md_images/home.png)
+![Logo](md_images/home.png)
 
 
 +++
