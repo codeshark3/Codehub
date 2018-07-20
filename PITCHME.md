@@ -5,12 +5,12 @@
 
 ## CodeHub
 #### A Guest Host Blog for Code Enthusiasts
-#### by 
+#### by Team Alpha
 
 ---
 ## What is CodeHub?
 CodeHub is a learning platform designed to help programmers, web designers and learners 
-share thier ideas to create personalised learning environments and also build their careers.
+share their ideas to create personalised learning environments and also build their careers.
 Professional and aspiring programmers visit Codehub to help solve coding problems, develop new skills,
  and find job opportunities. 
 
@@ -27,31 +27,6 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 - Javascipt
 - Django
 - Heroku
-
-+++
-
-
-### The Homepage
-![Python](md_images/home.png)
-
-+++
-
-### The Dashboard  
-
-![Python](md_images/dashboard.png)
-
-
-
-+++
-
-### Editing The Post
-
-![Python](md_images/edit.png)
-
-+++
-
-### The SignIn Page
-![Python](md_images/signin.png)
 
 +++
 
