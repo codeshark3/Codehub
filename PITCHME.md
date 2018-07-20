@@ -32,31 +32,6 @@ Professional and aspiring programmers visit Codehub to help solve coding problem
 
 +++
 
-### The Homepage
-
-
-![Python](md_images/home.png)
-+++
-
-### The Dashboard  
-
-![Python](md_images/dashboard.png)
-
-
-+++
-
-### Editing The Post
-![Python](md_images/edit.png)
-
-+++
-
-### The SignIn Page
-
-![Python](md_images/signin.png)
-
-
-
-
 
 ## Challenges
 * Hosting to Heroku 
